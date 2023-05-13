@@ -3,4 +3,6 @@ public class Hat {
     //big hat
     //small hat
     //medium hat
+
+    //no hat
 }
